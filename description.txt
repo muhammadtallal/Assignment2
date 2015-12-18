@@ -1,0 +1,8 @@
+Name: Muhammad Tallal
+Class: BESE-4B
+Reg. No.: 04939
+
+GitHub Link: github.com/muhammadtallal/assignment2
+
+Description:
+I have a dashboard which displays date, temperature and time. On clicking clock, itis enlarged, on clicking temperature, forecast details are shown for next five days including today and on clicking date, calender is opened up. You can go back from detailed view to the dashboard through back button. Internet connection is required for application to work properly.
